@@ -12,8 +12,8 @@ export default function App() {
 
       <TextInput 
       style = {{  
-        height: 40,
-        width: 200,
+        height: 50,
+        width: 300,
         margin: 20,
         borderWidth: 1,
         padding: 10}}
@@ -21,8 +21,8 @@ export default function App() {
       
       <TextInput 
       style = {{  
-        height: 40,
-        width: 200,
+        height: 50,
+        width: 300,
         margin: 12,
         borderWidth: 1,
         padding: 10}}
@@ -37,7 +37,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#808080',
+    backgroundColor: '#dae7e8',
     alignItems: 'center',
     justifyContent: 'center',
   },
